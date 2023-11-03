@@ -14,4 +14,4 @@ My Download Manager is a powerful yet easy-to-use application designed to help u
 
 - User-friendly interface: The application has an intuitive, simple interface that is easy to operate. Users can easily complete various download tasks without complicated settings or learning processes.
 
-- In summary, My Download Manager is a flexible, efficient download management tool that provides multi-threaded downloading, download task management, and auto-recognizing file names, among other features, to make it more convenient for users to handle their downloading needs. It provides a good user experience, helping users get the desired files more easily and manage download processes effectively.
+In summary, My Download Manager is a flexible, efficient download management tool that provides multi-threaded downloading, download task management, and auto-recognizing file names, among other features, to make it more convenient for users to handle their downloading needs. It provides a good user experience, helping users get the desired files more easily and manage download processes effectively.
