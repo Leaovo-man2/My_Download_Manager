@@ -1,21 +1,23 @@
-My Download Manager is an open-source application available on GitHub that aims to provide users with a comprehensive and intuitive solution for downloading and managing files. It offers a wide range of features designed to enhance the downloading experience:
+**程序概述: 强大的下载引擎**
 
-- User-friendly interface: The application boasts a clean and user-friendly interface, making it easy for users to navigate and utilize its functionalities. The intuitive design ensures a seamless experience for all users.
-    
-- Efficient file downloading: My Download Manager employs advanced multi-threading technology, allowing users to download files simultaneously using multiple threads. This significantly improves download speeds and ensures efficient utilization of available bandwidth.
-    
-- Comprehensive download management: Users can effortlessly add, pause, resume, prioritize, and cancel download tasks. The application offers a clear overview of ongoing and completed downloads, enabling users to manage their downloads effectively.
-    
-- Auto-detection of file details: When adding a download task by providing the URL, the application automatically fetches relevant information such as the file name, size, and file type. This automatic detection eliminates the need for manual input and reduces the risk of errors.
-    
-- Download progress tracking: My Download Manager provides real-time tracking of download progress, displaying detailed information like download speed, elapsed time, and estimated time remaining. Users can easily monitor the progress of their downloads and plan their activities accordingly.
-    
-- Download scheduling and queuing: Users have the flexibility to schedule downloads at specific times or set bandwidth limits to ensure smooth performance of other tasks. They can also queue multiple downloads, allowing the application to process them sequentially.
-    
-- Resume interrupted downloads: In case of interrupted downloads due to network issues or system shutdowns, My Download Manager supports resuming broken downloads from where they left off. This feature saves time and bandwidth by avoiding the need to restart downloads from scratch.
-    
-- Browser integration: The application seamlessly integrates with popular web browsers, allowing users to initiate downloads directly from within the browser with just a few clicks.
-    
-- Open-source development: My Download Manager is an open-source project hosted on GitHub, providing transparency and inviting contributions from the developer community. Users can access the source code, suggest improvements, and contribute to the ongoing development of the application.
+欢迎体验我们创新设计的下载引擎，一款注重性能和用户体验的图形用户界面（GUI）应用程序。从引人注目的“欢迎使用MDM”大标题到底部的“©2024 Leaovo-man2”版权声明，该下载引擎为您提供高效、直观的文件下载解决方案。
 
-In summary, My Download Manager is a powerful and user-friendly open-source application available on GitHub. With its efficient downloading capabilities, comprehensive download management features, and seamless integration with popular browsers, it offers an enhanced and intuitive experience for users seeking a reliable solution to their file downloading needs.
+**主要特点:**
+1. **界面设计精致：** 独特的圆角美学与清爽的色调相结合，为用户提供令人愉悦的使用体验。
+
+2. **一键式操作：** 通过简单的文件URL输入和下载路径选择，点击"下载"按钮即可轻松获取所需文件。
+
+3. **智能文件命名：** 引擎内置智能文件命名功能，能够根据URL自动识别文件名，省去繁琐的手动输入。
+
+4. **实时速度显示：** 独立的下载速度实时显示，使用户随时了解文件传输状态，保持对下载进度的实时掌握。
+
+5. **多线程下载技术：** 引擎采用高效的多线程技术，确保文件下载的高速和流畅性。
+
+**操作简便:**
+1. 在“文件URL”框中输入您所需下载文件的链接。
+2. 使用"选择路径"按钮确定文件的保存位置。
+3. 可选择启用"自动识别文件名"以自动生成文件名，或手动输入。
+4. 点击"下载"按钮，引擎将以最高效率下载并保存文件。
+5. 观察实时下载进度和速度，直至任务完成。
+
+**我们致力于提供卓越的用户体验，让下载变得高效而愉悦。这就是我们下载引擎的承诺。**
